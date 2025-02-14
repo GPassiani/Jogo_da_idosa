@@ -1,0 +1,3 @@
+# database.xlsx -> ignorar arquivo especifico
+# *.xlsx -> ignorar extensão do arquivo
+arquivos/
